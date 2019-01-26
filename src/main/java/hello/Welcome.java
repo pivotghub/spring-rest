@@ -5,6 +5,7 @@ import java.util.Arrays;
 
 public class Welcome {
 
+  privat String nothing;
   private final String message;
   private final List<String> paths;
 
